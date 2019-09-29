@@ -36,8 +36,8 @@ public class WebPImageReaderSpi extends ImageReaderSpi {
     super(
         "Luciad",
         "1.0",
-        new String[]{ "WebP", "webp" },
-        new String[]{ "webp" },
+        new String[]{ "WebP", "com/luciad/imageio/webp"},
+        new String[]{"com/luciad/imageio/webp"},
         new String[]{ "image/webp" },
         WebPReader.class.getName(),
         new Class[] { ImageInputStream.class },
