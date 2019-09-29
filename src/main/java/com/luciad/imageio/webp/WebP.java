@@ -26,7 +26,8 @@ final class WebP {
   static synchronized void loadNativeLibrary() {
     if ( !NATIVE_LIBRARY_LOADED ) {
       NATIVE_LIBRARY_LOADED = true;
-      System.loadLibrary( "webp-imageio" );
+//      System.loadLibrary( "webp-imageio" );
+        System.load ("/tmp/libwebp.so");
     }
   }
 

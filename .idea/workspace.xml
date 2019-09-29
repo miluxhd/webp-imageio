@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04ee7576-a3f0-431c-88de-daec27e49a11" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/services/javax.imageio.spi.ImageReaderSpi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/services/javax.imageio.spi.ImageWriterSpi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luciad/imageio/webp/WebP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luciad/imageio/webp/WebP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luciad/imageio/webp/WebPImageReaderSpi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luciad/imageio/webp/WebPImageReaderSpi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luciad/imageio/webp/WebPImageWriterSpi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luciad/imageio/webp/WebPImageWriterSpi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luciad/imageio/webp/WebPWriteParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luciad/imageio/webp/WebPWriteParam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luciad/imageio/webp/WebPWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luciad/imageio/webp/WebPWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java/com/luciad/imageio/webp/VP8StatusCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java/com/luciad/imageio/webp/WebP$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java/com/luciad/imageio/webp/WebP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java/com/luciad/imageio/webp/WebPImageReaderSpi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java/com/luciad/imageio/webp/WebPImageWriterSpi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java/com/luciad/imageio/webp/WebPReadParam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java/com/luciad/imageio/webp/WebPReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java/com/luciad/imageio/webp/WebPWriteParam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/java/com/luciad/imageio/webp/WebPWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/Compile Optimized/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/Compile Optimized/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webp-imageio-1.0.1-SNAPSHOT-debug.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/webp-imageio-1.0.1-SNAPSHOT-debug.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/webp-imageio-1.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/webp-imageio-1.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webp-imageio.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="04ee7576-a3f0-431c-88de-daec27e49a11" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -146,9 +122,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="width" value="1374" />
-    <option name="height" value="736" />
+    <option name="x" value="1362" />
+    <option name="width" value="1928" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -174,6 +150,21 @@
               <item name="webp-imageio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webp-imageio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webp-imageio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="webp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -263,7 +254,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="732" extended-state="6" />
+    <frame x="1366" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -275,10 +266,10 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.52869564" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32936078" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2530303" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1782284" />
       <window_info anchor="right" id="LuaJ" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
