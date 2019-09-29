@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package java.com.luciad.imageio.webp;
+package com.luciad.imageio.webp;
 
 enum VP8StatusCode {
   VP8_STATUS_OK,
