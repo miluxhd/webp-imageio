@@ -121,7 +121,7 @@
         <entry key="$PROJECT_DIR$/../../storage/new/storage" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../storage/objectstorage" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../../tonight/j/mozjpeg4j" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../work/objectstorage" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../objectstorage" value="PREVIEW" />
       </map>
     </option>
   </component>
